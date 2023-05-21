@@ -1,6 +1,6 @@
-# PySpark-Big-Data-Analysis
+# PySpark-Bike-Rider-Classification
 
-Project name: Bike Rider Type Classification
+Project name: Bike Rider Classification
 
 To run this project, either: (1) Use Jupyter notebook. Put project.ipynb in the same folder with 202302tripdata.csv and run project.ipynb. Jupyter notebook is launched from Anaconda.
 
